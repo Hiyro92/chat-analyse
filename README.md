@@ -10,14 +10,14 @@
 ```json
 [
     {
-        date: 2022-05-02 T 12:11,
-        name: "Jessi",
-        messange: "Guten Morgen😃" 
+        "date": "2022-05-02T12:11:00.000Z",
+        "name": "Jessi",
+        "messange": "Guten Morgen😃" 
     },
     {
-        date: 2022-05-02 T 12:56,
-        name: "Adrian",
-        messange: "Morgen 😅" 
+        "date": "2022-05-02T12:56:00.000Z",
+        "name": "Adrian",
+        "messange": "Morgen 😅" 
     },
 ]
 ```
